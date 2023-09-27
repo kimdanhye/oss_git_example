@@ -39,7 +39,7 @@
     * Apache License
     * MPL (_Mozilla Public License_)
 
-    ![Alt text](image.png)
+    ![Alt text](https://blogfiles.pstatic.net/MjAyMzA5MjdfNzAg/MDAxNjk1ODI2NzYxMzc5.BZyEvfu8t3g32ijfzxX6OC7hWjGlVtzMd3r4JjmkaTkg.u7Lnkr6TFj9reJWIhVbEUmjQOvFs0NG5IG2WooV_zOYg.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_183104.png)
 -------------
 ### Week2-1 버전 관리 개요
 * **Version Control System** (VCS)
@@ -54,23 +54,23 @@
   > General Actions in VCS
     * Check in (check in a file and modify)
     * Check out and editing
-    ![Alt text](image-1.png)
+    ![Alt text](https://postfiles.pstatic.net/MjAyMzA5MjhfMiAg/MDAxNjk1ODI2ODIyNDc2.lospzi6mu7O8oo9TKrQSRMkZFTgsJZBENf_zTa5vCwIg.asuJ1nVWZ-GDf5TyqqLDxC3GGgd-LdVm3zUoj1alV90g.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_184220.png?type=w966)
     * Diffs
-   ![Alt text](image-2.png)
+   ![Alt text](https://postfiles.pstatic.net/MjAyMzA5MjhfMjIx/MDAxNjk1ODI2ODI5ODQx.FPGhnJ8PAbpx6rbiyqLi66nyxt4EgqGSFx18TotXP4wg.oWu657RcwxGXpCOiLSH4ScFcFjtcaxmWiMYqZFPj-6og.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_184314.png?type=w966)
     * Branching
     * Merging
-    ![Alt text](image-3.png)
+    ![Alt text](https://postfiles.pstatic.net/MjAyMzA5MjhfMjkz/MDAxNjk1ODI2ODM4NTE3.Ut1WzKM7LjrScZcpVO79M8mRcqJtZdNUIpKor6zJegYg.pTQIBZtZ8PQgSJN8cJ4rrq9-eBGTfKnITwGU4ZqeWtog.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_184402.png?type=w966)
     * Conflicts
-    ![Alt text](image-5.png)
+    ![Alt text](https://postfiles.pstatic.net/MjAyMzA5MjhfMjc5/MDAxNjk1ODI2ODQyNTk5.6EDnMO_2OF5FsJ_70dSuKzwTDme5DRWtNo5hUFPbXlsg.x_aSLHMQ3pdGb7bIFQfyIIp-S9c1sc5h4TS7xltHAvQg.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_184611.png?type=w966)
     * Tagging
-    ![Alt text](image-4.png)
+    ![Alt text](https://postfiles.pstatic.net/MjAyMzA5MjhfOTMg/MDAxNjk1ODI2ODQ2OTE3.-UUCDR_z8oD_gl9xZOCibTdtLZhpR50wsAPjKU_kb90g.bkeT470YeePqd6QGsRI0Zgu8al4DdAxkCDUjMxwsdaAg.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_184627.png?type=w966)
 
 -------------
 ### Week2-2 Git
 * Git workflow (_명령어알아두기_)
 
-![Alt text](image-7.png)
-![Alt text](image-8.png)
+![Alt text](https://postfiles.pstatic.net/MjAyMzA5MjhfMjIx/MDAxNjk1ODI2ODUxMDgx.amC3CVVWkQmxXRSYWa6JxedqOc-4h5JHgRiQlI8I80Mg.jQSk2VvIP0UM3EYA_qdYcnuaXYD2TblGbZ-JUkk7LaQg.PNG.hyedaning118/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-09-27_184749.png?type=w966)
+
 
 -------------
 ### Week2-3 Github, fork, pull request
@@ -100,3 +100,4 @@
   * Blockquotes
   * Lists
   * Paragraphs 
+
